@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Kafayat Faniran! 👋<br><br>🎡 I'm currently learning more about Software & Blockchain Development.<br>👩‍💻 I'm looking into Exploring New Technologies for StartUp growth.<br>💻 Ask me about any tech-related stuff.<br>📩 How to reach me: Email - contactkaffynow@gmail.com<br>☺ Pronouns: She/Her<br>⚡ Fun fact: I love food, a lot!
+Hey there, I'm Kafayat Faniran! 👋<br><br>🎡 I'm currently learning more about Software & Blockchain Development.<br>👩‍💻 I'm looking into Exploring New Technologies for StartUp growth.<br>💻 Ask me about any tech-related stuff.<br>📩 How to reach me: I'm active on Twitter @kaffykraftworld<br>☺ Pronouns: She/Her<br>⚡ Fun fact: I love food, a lot!
 
 
 ## 🌐 Socials:
