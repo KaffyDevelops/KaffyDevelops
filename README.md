@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Kafayat Faniran! 👋<br><br>🎡 I'm currently working more on Mobile Application Software & Blockchain Development.<br>👩‍💻 I'm looking into Exploring New Technologies for improved StartUp growth user experience.<br>💻 Ask me about any tech-related stuff.<br>📩 How to reach me: I'm active on Instagram @kaffytechmediahub<br>☺ Pronouns: She/Her<br>⚡ Fun fact: I love food, a lot!
+Hey there, I'm Kafayat Faniran! 👋<br><br>🎡 I'm currently working more on Cloud Solutions Infrastructure & Blockchain Development.<br>👩‍💻 I'm looking into Exploring New Technologies for improved StartUp growth in the Cloud.<br>💻 Ask me about any cloud related stuff.<br>📩 How to reach me: I'm active on Instagram @kaffytechmediahub<br>☺ Pronouns: She/Her<br>⚡ Fun fact: I love food, a lot!
 
 
 ## 🌐 Socials:
