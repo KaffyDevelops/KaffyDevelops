@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Kaffy Faniran! 👋<br><br>🎡 I'm currently working more on Cloud Solutions Infrastructure & Blockchain Development.<br>👩‍💻 I'm looking into Exploring New Technologies to improved StartUp growth and securing their assets in the Cloud.<br>💻 Ask me about any cloud security related stuff.<br>📩 How to reach me: I'm active on LinkedIn (Kaffy Faniran) and X(Twitter) @KaffyinCloud<br>☺ Pronouns: She/Her<br>⚡ Fun fact: I love food, a lot!
+Hey there, I'm Kafayat Faniran! 👋 ☁️ I work across Cloud Security, Cloud Infrastructure and secure SaaS development<br><br>🛠️ I'm currently building **The Cloud Forge**, an AI-powered, project-first cloud security learning platform focused initially on AWS.<br>🔐 I'm passionate about IAM, cloud security hardening, logging and monitoring, threat detection, compliance and secure cloud architecture.<br>🤖 I'm also exploring secure AI-assisted development and how AI can make hands-on cloud security learning more practical and personalised.<br>💬 Ask me about cloud security, AWS | Azure | Google Cloud security, IAM, secure cloud architecture and project-based cloud learning.<br>📩 Reach me on LinkedIn: Kafayat Faniran and X(Twitter) @KaffyinCloud<br>☺ Pronouns: She/Her<br>⚡ Fun fact: I love good food. A lot! 😄
 
 
 ## 🌐 Socials:
