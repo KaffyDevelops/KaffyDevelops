@@ -42,6 +42,11 @@ Terraform-based AWS security reference environment covering segmented networking
 
 **Evidence:** Terraform infrastructure • threat model • security control matrix • GitHub Actions validation • deployment and runtime evidence programme
 
+### [Google Cloud Security Engineering](https://github.com/KaffyDevelops/gcp-cloud-security-engineering)
+Terraform-based Google Cloud security reference environment covering keyless IAM, Workload Identity Federation, segmented networking, VPC Flow Logs, Cloud Audit Logs, Cloud KMS and protected security-log archiving.
+
+**Evidence:** Terraform infrastructure • threat model • keyless IAM design • KMS-protected evidence architecture • GCP security-quality CI • cross-repository detection validation programme
+
 ### [Cloud Security Detection as Code](https://github.com/KaffyDevelops/cloud-security-detection-as-code)
 Open-source multi-cloud detection engineering project with provider-native Azure, AWS and Google Cloud detections structured as reviewable code and mapped to MITRE ATT&CK.
 
@@ -71,10 +76,10 @@ Repositories I am deliberately building as deeper technical evidence of my skill
 - `azure-soc-lab` ✅ Detection engineering and incident response
 - `azure-iam-governance-lab` ✅ Enterprise IAM assessment, governance and automation
 - `aws-cloud-security-engineering` ✅ Terraform-based AWS security architecture and validation framework
+- `gcp-cloud-security-engineering` ✅ Google Cloud keyless IAM, logging, encryption and secure architecture
 - `cloud-security-detection-as-code` ✅ Multi-cloud detection engineering and open-source validation framework
 - `cloud-forge-security-architecture` ✅ Sanitised secure product architecture, ADRs and threat modelling
 - `kaffy-portfolio` ✅ Secure professional portfolio and case-study platform
-- `gcp-cloud-security-engineering` 🔨 Google Cloud IAM, logging, SCC and secure architecture
 
 The goal is quality over volume: each flagship repository shows the **problem, risk, architecture, implementation, evidence, validation, findings, and lessons I learned**.
 
