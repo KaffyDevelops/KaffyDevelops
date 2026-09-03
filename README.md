@@ -37,6 +37,11 @@ Terraform-based AWS security reference environment covering segmented networking
 
 **Evidence:** Terraform infrastructure • threat model • security control matrix • GitHub Actions validation • deployment and runtime evidence programme
 
+### [Cloud Forge Security Architecture](https://github.com/KaffyDevelops/cloud-forge-security-architecture)
+Public, sanitised product-security architecture for The Cloud Forge covering trust boundaries, PostgreSQL Row Level Security, evidence ownership, AI security, server-side secrets, payment entitlement, logging, CI/CD and recovery design.
+
+**Evidence:** threat model • security ADRs • sanitised control patterns • validation programme • architecture-quality CI
+
 ### [Kaffy Cloud Security Portfolio](https://github.com/KaffyDevelops/kaffy-portfolio)
 The source for my professional cloud security portfolio at **kaffy.thecloudforge.app**, built with Next.js and TypeScript and hardened with security headers, Content Security Policy, HSTS and privacy-conscious design decisions.
 
@@ -45,7 +50,7 @@ The source for my professional cloud security portfolio at **kaffy.thecloudforge
 ### The Cloud Forge
 I am building **The Cloud Forge**, an AI-powered, project-first cloud security learning platform designed to help learners move from theory to realistic practice, assessment and demonstrable portfolio evidence.
 
-The production application remains private. Public, sanitised security architecture documentation will be published separately so that product security decisions can be reviewed without exposing proprietary code or secrets.
+The production application remains private. Its public security architecture is documented separately so product security decisions can be reviewed without exposing proprietary code, credentials or private learner data.
 
 ## 🗺️ Security Engineering Roadmap
 
@@ -53,9 +58,9 @@ Repositories I am deliberately building as deeper technical evidence:
 
 - `azure-soc-lab` ✅ Detection engineering and incident response
 - `aws-cloud-security-engineering` ✅ Terraform-based AWS security architecture and validation framework
+- `cloud-forge-security-architecture` ✅ Sanitised secure product architecture, ADRs and threat modelling
 - `azure-iam-governance-lab` 🔨 Enterprise IAM assessment, governance and automation
 - `cloud-security-detection-as-code` 🔨 Reusable cloud detection rules with MITRE ATT&CK mapping
-- `cloud-forge-security-architecture` 🔨 Sanitised secure product architecture and threat modelling
 - `gcp-cloud-security-engineering` 🔨 Google Cloud IAM, logging, SCC and secure architecture
 
 The goal is quality over volume: each flagship repository shows the **problem, risk, architecture, implementation, evidence, validation, findings, and lessons I learned**.
