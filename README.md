@@ -66,7 +66,7 @@ The production application remains private. Its public security architecture is 
 
 ## 🗺️ Security Engineering Roadmap
 
-Repositories I am deliberately building as deeper technical evidence:
+Repositories I am deliberately building as deeper technical evidence of my skills:
 
 - `azure-soc-lab` ✅ Detection engineering and incident response
 - `azure-iam-governance-lab` ✅ Enterprise IAM assessment, governance and automation
