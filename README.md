@@ -3,7 +3,7 @@ Hey there, I'm Kafayat Faniran! 👋 ☁️ I work across Cloud Security, Cloud 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kafayatfaniran) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KaffyinCloudSecurity)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kaffyincloud) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kaffyincloud) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaffydevelops) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaffytechmediahub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kafayatfaniran) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KaffyinCloudSecurity)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kaffyincloudsecurity) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kaffyincloud) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kaffydevelops) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaffytechmediahub)
 
 ## 🔐 Cloud Security Focus
 
@@ -53,7 +53,7 @@ Repositories I am deliberately building as deeper technical evidence:
 - `cloud-forge-security-architecture` 🔨 Sanitised secure product architecture and threat modelling
 - `gcp-cloud-security-engineering` 🔨 Google Cloud IAM, logging, SCC and secure architecture
 
-The goal is quality over volume: each flagship repository should show the **problem, risk, architecture, implementation, evidence, validation, findings and lessons learned**.
+The goal is quality over volume: each flagship repository shows the **problem, risk, architecture, implementation, evidence, validation, findings, and lessons I learned**.
 
 ## 🎓 Cybersecurity & Cloud Credentials
 
@@ -93,4 +93,4 @@ I use GitHub as a technical evidence portfolio, not simply a place to store exer
 
 ### 🔗 Professional Links
 
-[Portfolio](https://kaffy.thecloudforge.app) • [GitHub](https://github.com/KaffyDevelops) • [LinkedIn](https://linkedin.com/in/kafayatfaniran) • [The Cloud Forge](https://www.thecloudforge.app)
+[Portfolio](https://kaffy.thecloudforge.app) • [GitHub](https://github.com/KaffyDevelops) • [LinkedIn](https://linkedin.com/in/kafayatfaniran) • [The Cloud Forge](https://www.thecloudforge.app) • [My Cloud Security Blog for Beginners](https://www.cloudbeginners.info) • [My Cybersecurity Awareness Company](https://thekaffycyberconsulting.com)
