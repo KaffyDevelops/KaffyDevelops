@@ -32,6 +32,11 @@ Hands-on Azure SOC project focused on Microsoft Sentinel, Entra ID sign-in telem
 
 **Evidence:** KQL query library • detection documentation • incident evidence • Sentinel screenshots • threat mapping
 
+### [AWS Cloud Security Engineering](https://github.com/KaffyDevelops/aws-cloud-security-engineering)
+Terraform-based AWS security reference environment covering segmented networking, CloudTrail, VPC Flow Logs, KMS-protected audit logs, IAM Access Analyzer, optional GuardDuty, AWS Config and Security Hub, plus evidence-led control validation.
+
+**Evidence:** Terraform infrastructure • threat model • security control matrix • GitHub Actions validation • deployment and runtime evidence programme
+
 ### [Kaffy Cloud Security Portfolio](https://github.com/KaffyDevelops/kaffy-portfolio)
 The source for my professional cloud security portfolio at **kaffy.thecloudforge.app**, built with Next.js and TypeScript and hardened with security headers, Content Security Policy, HSTS and privacy-conscious design decisions.
 
@@ -47,8 +52,8 @@ The production application remains private. Public, sanitised security architect
 Repositories I am deliberately building as deeper technical evidence:
 
 - `azure-soc-lab` ✅ Detection engineering and incident response
+- `aws-cloud-security-engineering` ✅ Terraform-based AWS security architecture and validation framework
 - `azure-iam-governance-lab` 🔨 Enterprise IAM assessment, governance and automation
-- `aws-cloud-security-engineering` 🔨 Terraform-based AWS security architecture and controls
 - `cloud-security-detection-as-code` 🔨 Reusable cloud detection rules with MITRE ATT&CK mapping
 - `cloud-forge-security-architecture` 🔨 Sanitised secure product architecture and threat modelling
 - `gcp-cloud-security-engineering` 🔨 Google Cloud IAM, logging, SCC and secure architecture
