@@ -30,22 +30,34 @@ My current technical focus is on:
 ### [Microsoft Sentinel SOC & Threat Detection Lab](https://github.com/KaffyDevelops/azure-soc-lab)
 Hands-on Azure SOC project focused on Microsoft Sentinel, Entra ID sign-in telemetry, KQL detection engineering, alert investigation and evidence-led incident response.
 
-**Evidence:** KQL query library • detection documentation • incident evidence • Sentinel screenshots • threat mapping
+**Evidence:** KQL query library • detection documentation • incident evidence • Sentinel screenshots • MITRE ATT&CK mapping
+
+### [Azure IAM Governance Lab](https://github.com/KaffyDevelops/azure-iam-governance-lab)
+Enterprise Microsoft Entra ID and Azure IAM governance portfolio scenario covering identity inventory, stale access, guest governance, Azure RBAC, Conditional Access, PIM, access reviews and workload identities.
+
+**Evidence:** risk-led IAM assessment • PowerShell evidence collectors • target governance architecture • validation programme • automated IAM quality checks
 
 ### [AWS Cloud Security Engineering](https://github.com/KaffyDevelops/aws-cloud-security-engineering)
 Terraform-based AWS security reference environment covering segmented networking, CloudTrail, VPC Flow Logs, KMS-protected audit logs, IAM Access Analyzer, optional GuardDuty, AWS Config and Security Hub, plus evidence-led control validation.
 
 **Evidence:** Terraform infrastructure • threat model • security control matrix • GitHub Actions validation • deployment and runtime evidence programme
 
+### [Cloud Security Detection as Code](https://github.com/KaffyDevelops/cloud-security-detection-as-code)
+Open-source multi-cloud detection engineering project with provider-native Azure, AWS and Google Cloud detections structured as reviewable code and mapped to MITRE ATT&CK.
+
+**Evidence:** KQL • CloudWatch Logs Insights • Google Cloud Logging queries • Sigma • detection metadata schema • validation methodology • open-source contribution workflow • CI quality gate
+
 ### [Cloud Forge Security Architecture](https://github.com/KaffyDevelops/cloud-forge-security-architecture)
 Public, sanitised product-security architecture for The Cloud Forge covering trust boundaries, PostgreSQL Row Level Security, evidence ownership, AI security, server-side secrets, payment entitlement, logging, CI/CD and recovery design.
 
-**Evidence:** threat model • security ADRs • sanitised control patterns • validation programme • architecture-quality CI
+**Evidence:** threat model • security ADRs • sanitised control patterns • implementation-backed validation evidence • architecture-quality CI
 
 ### [Kaffy Cloud Security Portfolio](https://github.com/KaffyDevelops/kaffy-portfolio)
 The source for my professional cloud security portfolio at **kaffy.thecloudforge.app**, built with Next.js and TypeScript and hardened with security headers, Content Security Policy, HSTS and privacy-conscious design decisions.
 
 **Evidence:** secure web engineering • technical case studies • deployment history • security configuration
+
+## 🏗️ Founder Project
 
 ### The Cloud Forge
 I am building **The Cloud Forge**, an AI-powered, project-first cloud security learning platform designed to help learners move from theory to realistic practice, assessment and demonstrable portfolio evidence.
@@ -57,10 +69,11 @@ The production application remains private. Its public security architecture is 
 Repositories I am deliberately building as deeper technical evidence:
 
 - `azure-soc-lab` ✅ Detection engineering and incident response
+- `azure-iam-governance-lab` ✅ Enterprise IAM assessment, governance and automation
 - `aws-cloud-security-engineering` ✅ Terraform-based AWS security architecture and validation framework
+- `cloud-security-detection-as-code` ✅ Multi-cloud detection engineering and open-source validation framework
 - `cloud-forge-security-architecture` ✅ Sanitised secure product architecture, ADRs and threat modelling
-- `azure-iam-governance-lab` 🔨 Enterprise IAM assessment, governance and automation
-- `cloud-security-detection-as-code` 🔨 Reusable cloud detection rules with MITRE ATT&CK mapping
+- `kaffy-portfolio` ✅ Secure professional portfolio and case-study platform
 - `gcp-cloud-security-engineering` 🔨 Google Cloud IAM, logging, SCC and secure architecture
 
 The goal is quality over volume: each flagship repository shows the **problem, risk, architecture, implementation, evidence, validation, findings, and lessons I learned**.
